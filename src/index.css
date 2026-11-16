@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Ubuntu", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+
+  --color-primary: oklch(0.45 0.31 266);
+  --color-primary-foreground: #ffffff;
+  --color-foreground: oklch(0.22 0.084 274);
+  --color-muted-foreground: oklch(0.47 0.055 274);
+  --color-background: oklch(0.98 0.008 264);
+  --color-border: oklch(0.93 0.015 264);
+
+}
